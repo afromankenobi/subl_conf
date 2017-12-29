@@ -6,21 +6,26 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"Color Highlighter",
 		"DocBlockr",
 		"Emmet",
 		"Git blame",
 		"JavaScript Completions",
 		"jQuery",
-		"JSLint",
 		"Material Theme",
 		"Package Control",
+		"Pug",
 		"RSpec",
 		"Ruby on Rails snippets",
 		"Sass",
 		"SideBarEnhancements",
+		"Stylus",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-rubocop",
-		"SublimeLinter-ruby"
+		"SublimeLinter-ruby",
+		"TrailingSpaces",
+		"TypeScript",
+		"TypeScript Syntax"
 	]
 }
